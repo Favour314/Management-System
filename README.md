@@ -77,7 +77,8 @@ Go to **📊 Reports** → **Promote All** after Term III ends.
 - **Grade 2 → Grade 3** (promoted, not removed)
 - **Grade 3** students graduate and are removed
 - Old payment records are kept in history
-The system can alo be used on browser by typing the network socket
+- 
+The system can also be used on browser by typing the network socket
 ---
 
 ## Notes
